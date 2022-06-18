@@ -1,4 +1,4 @@
-FROM ng
+FROM nginx
 COPY
 CMD
 ARG
