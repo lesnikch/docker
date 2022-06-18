@@ -1,0 +1,4 @@
+FROM ng
+COPY
+CMD
+ARG
