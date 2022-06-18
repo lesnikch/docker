@@ -1,4 +1,4 @@
-FROM ng
-COPY
+FROM nginx
+COPY requirements.txt .
 CMD
 ARG
