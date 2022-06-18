@@ -1,4 +1,4 @@
 FROM nginx
-COPY
+COPY requirements.txt .
 CMD
 ARG
